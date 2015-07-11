@@ -5,3 +5,20 @@ How is the staging area different from the working directory and the repository?
 Its a in-between a area of all the files that will be comitted? I have done some work instead of one big everything commit
 I can refine into smaller logical commits.
 
+How can you use the staging area to make sure you have one commit per logical change?
+control the staging area with logical units for commmits (add file.a)
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Test an special feature; create different design and compare them, add language versions
+Give users a beta version with new features, but the old features for most of the users
+
+How do the diagrams help you visualize the branch structure?
+it doesnt
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+one branch.
+to see parent children history
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+You only have to think about it when there are conflicts, it saves a lot of time
+Con - it can get complicated when a conflict arises
