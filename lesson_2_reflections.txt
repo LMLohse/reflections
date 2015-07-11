@@ -1,0 +1,7 @@
+What happens when I initialize a reposity? Why would I need it?
+creates an invis .git dir for version control
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Its a in-between a area of all the files that will be comitted? I have done some work instead of one big everything commit
+I can refine into smaller logical commits.
+
